@@ -1,0 +1,17 @@
+# Narração para colar no ElevenLabs
+# Modelo: Eleven Multilingual v2 · voz jovem, tom de conversa · velocidade ~1.05
+# Gere UM arquivo por bloco (o número entre colchetes é onde ele começa no vídeo).
+# Nomeie os arquivos 00.mp3, 04.mp3, 09.mp3 ... para eu encaixar automaticamente.
+
+[00s] E se tu acordasse amanhã com memória perfeita?
+[04s] A Lia acordou e lembrou onde deixou a chave... em 2019.
+[09s] Normalmente, a gente esquece uns 70% do que aprende em 24 horas.
+[15s] A Lia não esquece nada. É uma condição real: hipertimesia.
+[22s] Pouco mais de 60 pessoas no mundo já foram diagnosticadas.
+[27s] E não é gravar tudo, tipo uma câmera.
+[32s] Quem guarda a memória é a sinapse: a ligação entre neurônios. A gente tem uns 100 trilhões. Cada vez que tu lembra, a ligação fica mais forte.
+[45s] Na prova, a Lia lembrou a página inteira. Até a mancha de café.
+[54s] Na festa, 40 nomes. Ela lembrou todos. Até do cara que ela viu uma vez, em 2016. E ele não lembrava dela.
+[67s] Mas aí veio o problema: ela lembra também toda vergonha que já passou. Com detalhe. Toda noite.
+[78s] Ganhou a prova. Perdeu o sono.
+[83s] Segue aí, que na parte 2 a Lia descobre como esquecer de propósito.
